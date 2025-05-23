@@ -6,11 +6,11 @@ The Space_Missions_Analysis.ipynb notebook is designed for in-depth data explora
 
 Within the notebook, the following core aspects are covered:
 
-Data Loading and Cleaning: The process involves loading the space mission data, checking for and handling missing values, and removing irrelevant columns.
-Descriptive Statistics: A statistical overview of the dataset is provided to understand its characteristics.
-Data Visualization and Analysis: The notebook generates various charts and visualizations to derive insights, including:
-Analyzing the number of launches performed by different organizations.
-Evaluating mission success and failure rates.
-Exploring trends in mission costs over time.
-Identifying popular months for space launches.
-The analysis helps uncover dominant organizations and trends in space exploration across 
+1. Data Loading and Cleaning: The process involves loading the space mission data, checking for and handling missing values, and removing irrelevant columns.
+2. Descriptive Statistics: A statistical overview of the dataset is provided to understand its characteristics.
+3. Data Visualization and Analysis: The notebook generates various charts and visualizations to derive insights, including:
+4. Analyzing the number of launches performed by different organizations.
+5. Evaluating mission success and failure rates.
+6. Exploring trends in mission costs over time.
+7. Identifying popular months for space launches.
+5. The analysis helps uncover dominant organizations and trends in space exploration across 
