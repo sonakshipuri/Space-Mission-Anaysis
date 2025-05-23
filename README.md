@@ -9,4 +9,5 @@ Within the notebook, the following core aspects are covered:
 1. Data Loading and Cleaning: The process involves loading the space mission data, checking for and handling missing values, and removing irrelevant columns.
 2. Descriptive Statistics: A statistical overview of the dataset is provided to understand its characteristics.
 3. Data Visualization and Analysis: The notebook generates various charts and visualizations to derive insights, Analyzing the number of launches performed by different organizations, Evaluating mission success and failure rates, Exploring trends in mission costs over time, Identifying popular months for space launches
+
 The analysis helps uncover dominant organizations and trends in space exploration across 
